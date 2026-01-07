@@ -3,7 +3,7 @@
 ## Русский
 GreenBoost — небольшая утилита для Windows, которая показывает состояние системы и помогает быстро очищать временные файлы. Приложение живет в трее, умеет запускаться с Windows и может выполнять автоочистку по заданным условиям.
 
-<img alt="Banner" src="https://i.ibb.co/mC665FDH/image.png">
+<img alt="Banner" src="https://i.ibb.co/PZwwGzm5/image.png">
 Скачать: https://github.com/lordofsunshine/greenboost/releases/download/v.0.0.1/GreenBoost.exe
 
 **Что умеет:**
@@ -47,7 +47,7 @@ build\build.ps1
 ## English
 GreenBoost is a small Windows utility that shows system health and helps you clean temporary files quickly. It lives in the tray, can start with Windows, and supports automatic cleanup based on conditions.
 
-<img alt="Banner" src="https://i.ibb.co/mC665FDH/image.png">
+<img alt="Banner" src="https://i.ibb.co/PZwwGzm5/image.png">
 Download: https://github.com/lordofsunshine/greenboost/releases/download/v.0.0.1/GreenBoost.exe
 
 **Key features:**
